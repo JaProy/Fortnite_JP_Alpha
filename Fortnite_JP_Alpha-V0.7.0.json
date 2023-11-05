@@ -1,0 +1,75 @@
+{
+ "Data":[
+   {
+    "Condition": "Creating the new FJA project"
+    ,"Dato" : "Hola bro"
+    ,"LoadingScreenID?" : "2"
+    ,"PermissionOpen" : "False"
+    ,"ConsumablesInFloor" : "True"
+    ,"XPMin" : "60000"
+    ,"XPMultiply" : "1"
+    ,"EventID" : "0"
+    ,"ZipLine" : "False"
+    ,"MRTest" : "False"
+   }
+ ],
+  "Lobby":[
+   {
+    "ShopDate": "No Espesificado" 
+    ,"FondoLobbyID?" : "5"
+    ,"SoundLobbyID?" : "2"
+    ,"ShopSkin1" : "M_MED_HeadBand"
+    ,"ShopSkin2" : "M_MED_HeadBand_s"
+    ,"ShopSkin3" : "M_MED_Lexa"
+    ,"ShopPickaxe1" : "SK_Pickaxe_Lexa_Male"
+    ,"ShopBag1" : "M_MED_Lexa_Pack"
+    ,"ShopBag2" : "F_MED_Lexa_Pack"
+    ,"ShopEmote1" : "EM_Electroshuffle"
+    ,"SeassonShop" : "0"
+    ,"SeassonShopDate" : "No Espesificado"
+   }
+ ],
+  "GameModesAdvance":[
+   {
+    "Slot01?": "True" 
+    ,"IDSlot01" : "Creativo"
+    ,"Slot02?" : "False"
+    ,"IDSlot02" : "MundoDeHielo"
+    ,"Slot03?" : "False"
+    ,"IDSlot03" : "MHice_0"
+    ,"Slot04?" : "False"
+    ,"IDSlot04" : "EventNewYear"
+   }
+ ],
+   "Noticias":[
+   {
+    "Notice?": "False"
+    ,"Image": "https://media.discordapp.net/attachments/768678782651203584/1058481155353104474/1546258876_605994_1546259013_noticia_normal.jpg"
+    ,"ImageMiniature" : "https://media.discordapp.net/attachments/768678782651203584/1058481155353104474/1546258876_605994_1546259013_noticia_normal.jpg"
+    ,"TRTL1" : "-50"
+    ,"Title1" : "AÑO NUEVO"
+    ,"Title2" : "Un Nuevo Modo De Juego Ha Llegado!" 
+    ,"SubTitle1" : "Juega este modo para celebrar la llegada del nuevo año, así como la despedida de este. Ademas" 
+    ,"SubTitle2" : "juega para recibir las siguientes recompensas: Skin IKONIK, Baile ESCENARIO" 
+    ,"SubTitle3" : "BY: FN JA Proyect"
+   }
+ ],
+ "GameModes":[
+   {
+    "MapNONE": "True"
+    ,"ModoPractica" : "True"
+    ,"OroSolido": "False"
+    ,"ModoZombies": "False"
+   }
+ ],
+  "VaRest":[
+   {
+    "LinkVaRest": "None"
+   }
+ ],
+   "Codes":[
+   {
+    "Upload": "123"
+   }
+ ]
+}
