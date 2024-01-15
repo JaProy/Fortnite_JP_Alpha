@@ -4,7 +4,7 @@
     "Condition": "Creating the new FJA project"
     ,"Dato" : "Hola bro"
     ,"LoadingScreenID?" : "2"
-    ,"PermissionOpen" : "False"
+    ,"PermissionOpen" : "True"
     ,"ConsumablesInFloor" : "True"
     ,"XPMin" : "60000"
     ,"XPMultiply" : "1"
