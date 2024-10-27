@@ -15,9 +15,9 @@
  ],
   "Lobby":[
    {
-    "ShopDate": "No Espesificado" 
+    "ShopDate": "??/12/2024" 
     ,"FondoLobbyID?" : "5"
-    ,"SoundLobbyID?" : "2"
+    ,"SoundLobbyID?" : "0"
     ,"ShopSkin1" : "M_MED_HeadBand"
     ,"ShopSkin2" : "M_MED_HeadBand_s"
     ,"ShopSkin3" : "M_MED_Lexa"
